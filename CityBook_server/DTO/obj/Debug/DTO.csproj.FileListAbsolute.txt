@@ -1,0 +1,6 @@
+C:\fridi\CityBook\CityBook_server\DTO\bin\Debug\DTO.dll
+C:\fridi\CityBook\CityBook_server\DTO\bin\Debug\DTO.pdb
+C:\fridi\CityBook\CityBook_server\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\fridi\CityBook\CityBook_server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\fridi\CityBook\CityBook_server\DTO\obj\Debug\DTO.dll
+C:\fridi\CityBook\CityBook_server\DTO\obj\Debug\DTO.pdb
